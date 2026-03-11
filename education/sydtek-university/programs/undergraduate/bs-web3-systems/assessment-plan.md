@@ -18,6 +18,8 @@ Assessment should demonstrate:
 
 Assessment in this program uses direct and indirect measures.
 
+Assessment may include public or private evidence pathways, but all pathways must remain academically equivalent in rigor and documentation.
+
 ---
 
 ## Direct Measures
@@ -32,6 +34,7 @@ Direct measures include:
 - GitHub repository submissions
 - capstone deliverables
 - portfolio reviews
+- evidence dossiers
 
 ---
 
@@ -44,6 +47,31 @@ Indirect measures include:
 - exit interviews
 - alumni feedback
 - internship reflections
+
+---
+
+## GitHub-Based Evidence Rule
+
+In courses designated as GitHub-based, students receive credit only when faculty can verify learning through documented repository activity and linked course artifacts.
+
+Repository visibility may be public or private.
+
+The academic requirement is verifiable evidence, not public exposure.
+
+---
+
+## Public and Private Pathways
+
+When courses encourage open discussion or public peer review, students must still have access to an equivalent rigorous pathway where legitimate privacy, age, safety, accessibility, or family considerations apply.
+
+Equivalent pathways must preserve:
+
+- learning outcomes
+- critique engagement
+- reflection
+- revision
+- rubric-based evaluation
+- documentation quality
 
 ---
 
@@ -90,6 +118,8 @@ Capstone projects will be evaluated for:
 - security awareness
 - communication quality
 - originality and feasibility
+- evidence quality
+- documentation integrity
 
 ---
 
@@ -102,3 +132,4 @@ Assessment findings will be used to:
 - improve sequencing
 - add support resources
 - refine capstone expectations
+- improve evidence preservation practices
