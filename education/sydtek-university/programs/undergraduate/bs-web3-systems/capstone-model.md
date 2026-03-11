@@ -23,6 +23,22 @@ A capstone project should show:
 - security awareness
 - documentation quality
 - professional presentation
+- verifiable development evidence
+
+---
+
+## GitHub Requirement
+
+Capstone students must complete the project in a GitHub repository or approved equivalent version-controlled environment.
+
+The repository may be public or private unless the specific capstone track requires public engagement.
+
+Credit is awarded only when authorized reviewers can verify:
+
+- authorship
+- progression
+- milestone completion
+- final artifact integrity
 
 ---
 
@@ -48,7 +64,8 @@ Capstone students should submit:
 - final artifact
 - written report
 - presentation
-- portfolio-ready repository
+- portfolio-ready repository or archived equivalent
+- evidence dossier
 
 ---
 
@@ -62,3 +79,4 @@ Capstone evaluation should consider:
 - originality
 - feasibility
 - professionalism
+- evidence quality
