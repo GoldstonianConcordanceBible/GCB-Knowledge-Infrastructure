@@ -1,0 +1,17 @@
+{
+  "repository": "GCB-Knowledge-Infrastructure",
+  "author": "Justin Goldston, PhD",
+  "ecosystem": "Goldstonian Concordance Bible",
+  "institution": "SydTek University",
+  "scholarly_network": "SydTek Scholars",
+  "framework": "Mirror → Water → Fire Doctrine",
+  "purpose": "Root knowledge infrastructure for books, datasets, academic programs, and machine-readable theological and technological systems.",
+  "layers": [
+    "knowledge",
+    "books",
+    "education",
+    "datasets",
+    "ontology",
+    "agents"
+  ]
+}
