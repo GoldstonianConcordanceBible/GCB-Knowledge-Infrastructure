@@ -25,6 +25,23 @@ Students may be required to disclose:
 - what tools were used
 - how they were used
 - what parts of the work were human-authored
+- what parts of the repository or submission involved assisted generation
+
+---
+
+## GitHub Integrity
+
+In GitHub-based courses, students may be required to demonstrate authorship and progression through:
+
+- commit history
+- change logs
+- milestone submissions
+- reflection statements
+- oral defense or walkthrough where appropriate
+
+Repository visibility does not remove the integrity requirement.
+
+Both public and private repositories must support verifiable authorship.
 
 ---
 
@@ -37,6 +54,8 @@ Possible violations include:
 - falsified submissions
 - deceptive use of AI tools
 - submission of work not created by the student as required
+- misrepresentation of repository authorship
+- fabricated commit histories or evidence artifacts
 
 ---
 
