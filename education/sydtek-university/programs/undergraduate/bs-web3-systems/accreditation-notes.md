@@ -28,6 +28,38 @@ The program has been structured to address the following foundational areas:
 - capstone requirement
 - student-facing degree purpose
 - quality improvement loop
+- documented policy framework
+- evidence dossier framework
+- audit packet framework
+
+---
+
+## GitHub and Accreditation Alignment
+
+GitHub-based learning can align with accreditation-oriented review when:
+
+- learning outcomes remain institutionally defined
+- assignments are rubric-based
+- faculty retain grading authority
+- student work is preserved as evidence
+- authorship and progression can be verified
+- private and public pathways are academically equivalent where required
+
+GitHub is therefore treated as an evidence environment, not as a substitute for institutional assessment.
+
+---
+
+## Public Peer Review and Parent or Student Choice
+
+Allowing a student or parent to choose public or private repository visibility can remain compatible with accreditation-oriented quality review when:
+
+- the institution defines the learning outcomes
+- the institution defines the grading rubrics
+- the institution documents equivalent rigorous pathways
+- faculty can verify work in either pathway
+- the program preserves evidence for audit and review
+
+The academic standard is documented student learning, not mandatory public exposure.
 
 ---
 
@@ -36,15 +68,14 @@ The program has been structured to address the following foundational areas:
 The following items should be completed in future accreditation-oriented development:
 
 - faculty qualification matrix
-- credit hour policy
-- attendance and participation policy
-- grading policy
-- academic integrity policy
-- student complaint process
+- attendance and participation policy implementation detail
+- grading policy implementation detail
 - library and learning resource plan
 - technology support plan
-- disability accommodation policy
 - internship and practicum supervision standards
+- faculty calibration procedures
+- repository review procedures
+- evidence retention schedule
 
 ---
 
