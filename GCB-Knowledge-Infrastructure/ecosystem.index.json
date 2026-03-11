@@ -1,0 +1,13 @@
+{
+  "ecosystem": "Goldstonian Concordance Bible",
+  "root_repository": "GCB-Knowledge-Infrastructure",
+  "books": [
+    "welcome-to-web3"
+  ],
+  "education": [
+    "sydtek-university"
+  ],
+  "datasets": [],
+  "ontologies": [],
+  "agents": []
+}
