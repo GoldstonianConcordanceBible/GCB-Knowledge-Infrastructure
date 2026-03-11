@@ -1,0 +1,11 @@
+{
+  "institution": "SydTek University",
+  "ecosystem": "Goldstonian Concordance Bible",
+  "scholarly_network": "SydTek Scholars",
+  "purpose": "Educational institution delivering academic programs derived from machine-readable knowledge systems.",
+  "program_levels": [
+    "undergraduate",
+    "graduate",
+    "doctoral"
+  ]
+}
