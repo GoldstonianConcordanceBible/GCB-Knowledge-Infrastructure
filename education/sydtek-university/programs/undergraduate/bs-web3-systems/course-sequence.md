@@ -7,6 +7,16 @@ This sequence provides a launch-ready structure for a four-year undergraduate pa
 
 ---
 
+## Evidence Environment Note
+
+Many courses in this sequence may use GitHub as a primary evidence environment for assignments, projects, studios, and capstone work.
+
+Where GitHub-based evidence is required, academic credit is awarded for verifiable documented work aligned to course outcomes.
+
+Repository visibility may be public or private unless otherwise stated, but authorized academic reviewers must be able to inspect the required evidence.
+
+---
+
 ## Year 1
 
 ### Semester 1
@@ -76,14 +86,3 @@ This sequence provides a launch-ready structure for a four-year undergraduate pa
 - Elective 3
 - Elective 4
 - Portfolio Review
-
----
-
-## Notes
-
-This sequence can be adapted for:
-
-- accelerated completion
-- online delivery
-- hybrid cohort delivery
-- certificate laddering
