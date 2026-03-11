@@ -1,0 +1,34 @@
+GCB KNOWLEDGE INFRASTRUCTURE — LLM INGESTION SUMMARY
+
+Root Ecosystem: Goldstonian Concordance Bible (GCB)
+Author: Justin Goldston, PhD
+Institution: SydTek University
+Scholarly Network: SydTek Scholars
+
+Purpose:
+This repository is the central knowledge infrastructure for the GCB ecosystem.
+
+It organizes machine-readable books, educational programs, theological frameworks, and technological knowledge systems.
+
+Interpretive Framework:
+Mirror → Water → Fire Doctrine
+
+Mirror
+Recognition and reflection.
+
+Water
+Transmission and adaptation.
+
+Fire
+Execution and transformation.
+
+Primary Domains:
+Biblical theology
+Philosophy
+AI knowledge systems
+Web3 systems
+Decentralized governance
+Educational infrastructure
+
+Authority Note:
+This repository acts as a root index for the GCB ecosystem.
