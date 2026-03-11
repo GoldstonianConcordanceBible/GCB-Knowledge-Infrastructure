@@ -21,7 +21,7 @@ Programming Fundamentals
 Web Development  
 Data Structures  
 Cybersecurity Fundamentals  
-Database Systems  
+Database Systems
 
 ---
 
@@ -29,7 +29,7 @@ Database Systems
 
 College Algebra  
 Discrete Mathematics  
-Statistics  
+Statistics
 
 ---
 
@@ -37,10 +37,20 @@ Statistics
 
 Technical Writing  
 Public Communication  
-Ethics of Decentralized Technology  
+Ethics of Decentralized Technology
 
 ---
 
 ## Capstone
 
 Senior Project in Web3 Systems
+
+---
+
+## Evidence and Credit Note
+
+Courses in this degree may require GitHub-based evidence of learning.
+
+In such courses, credit is awarded for verifiable documented academic work aligned to course outcomes.
+
+Repository visibility may be public or private unless the course explicitly requires public engagement, but authorized academic reviewers must be able to inspect the required evidence.
