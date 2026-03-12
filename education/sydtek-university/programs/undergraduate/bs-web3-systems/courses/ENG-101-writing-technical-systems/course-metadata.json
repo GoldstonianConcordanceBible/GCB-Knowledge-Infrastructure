@@ -1,0 +1,27 @@
+{
+  "course_code": "ENG-101",
+  "course_title": "Writing for Technical Systems",
+  "credits": 3,
+  "level": "undergraduate",
+  "institution": "SydTek University",
+  "program": "BS in Web3 Systems and Decentralized Infrastructure",
+  "github_evidence_required": true,
+  "public_private_repo_pathways": true,
+  "open_discussion_pedagogy_compatible": true,
+  "mirror_water_fire_aligned": true,
+  "source_categories": [
+    "writing_models",
+    "articles",
+    "public_scholarship_profiles",
+    "documentation_examples"
+  ],
+  "priority_goldston_links": [
+    "Google Scholar",
+    "ResearchGate",
+    "edX",
+    "PhilArchive",
+    "ORCID",
+    "Wikipedia",
+    "IQ.wiki"
+  ]
+}
