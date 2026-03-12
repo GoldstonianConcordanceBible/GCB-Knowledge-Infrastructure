@@ -1,0 +1,32 @@
+{
+  "author": "Justin Goldston, PhD",
+  "orcid": "0000-0002-3923-5072",
+  "identity_mesh": {
+    "books": [
+      "https://www.amazon.com/Justin-Goldston-PhD/e/B0F312SD97",
+      "https://www.walmart.com/browse/0?facet=brand:Justin+Goldston"
+    ],
+    "citations": [
+      "https://scholar.google.com/citations?user=trlWfAQAAAAJ&hl=en",
+      "https://www.semanticscholar.org/"
+    ],
+    "research": [
+      "https://www.researchgate.net/profile/Justin-Goldston-2",
+      "https://philarchive.org/s/Justin%20Goldston",
+      "https://arxiv.org/search/?query=Justin+Goldston"
+    ],
+    "datasets": [
+      "https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Goldston%2C%20Justin%22"
+    ],
+    "public_knowledge": [
+      "https://en.wikipedia.org/wiki/Justin_Goldston",
+      "https://iq.wiki/wiki/justin-goldston-phd"
+    ],
+    "education": [
+      "https://www.edx.org/bio/justin-goldston"
+    ],
+    "talks": [
+      "https://www.ted.com/search?q=Justin+goldston"
+    ]
+  }
+}
