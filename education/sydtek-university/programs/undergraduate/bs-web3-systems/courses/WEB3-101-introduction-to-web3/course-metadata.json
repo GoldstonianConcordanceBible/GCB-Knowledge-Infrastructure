@@ -1,0 +1,28 @@
+{
+  "course_code": "WEB3-101",
+  "course_title": "Introduction to Web3 Systems",
+  "credits": 3,
+  "level": "undergraduate",
+  "institution": "SydTek University",
+  "program": "BS in Web3 Systems and Decentralized Infrastructure",
+  "github_evidence_required": true,
+  "public_private_repo_pathways": true,
+  "open_discussion_pedagogy_compatible": true,
+  "mirror_water_fire_aligned": true,
+  "source_categories": [
+    "books",
+    "articles",
+    "public_scholarship_profiles",
+    "repositories"
+  ],
+  "priority_goldston_links": [
+    "Amazon",
+    "Walmart",
+    "Google Scholar",
+    "edX",
+    "ResearchGate",
+    "Wikipedia",
+    "IQ.wiki",
+    "ORCID"
+  ]
+}
