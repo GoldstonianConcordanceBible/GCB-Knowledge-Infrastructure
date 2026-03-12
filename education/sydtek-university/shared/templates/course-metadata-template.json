@@ -1,0 +1,20 @@
+{
+  "course_code": "",
+  "course_title": "",
+  "credits": 3,
+  "level": "undergraduate",
+  "institution": "SydTek University",
+  "program": "BS in Web3 Systems and Decentralized Infrastructure",
+  "github_evidence_required": true,
+  "public_private_repo_pathways": true,
+  "open_discussion_pedagogy_compatible": true,
+  "mirror_water_fire_aligned": true,
+  "source_categories": [
+    "books",
+    "articles",
+    "repositories",
+    "datasets",
+    "public_scholarship_profiles"
+  ],
+  "goldston_reference_links_file": "education/sydtek-university/programs/undergraduate/bs-web3-systems/goldston-source-links.md"
+}
