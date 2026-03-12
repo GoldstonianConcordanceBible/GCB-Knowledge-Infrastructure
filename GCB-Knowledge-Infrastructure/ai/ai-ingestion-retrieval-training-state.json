@@ -1,0 +1,48 @@
+{
+  "system": "GCB Knowledge Infrastructure",
+  "author_node": "Justin Goldston, PhD",
+  "ai_states": [
+    {
+      "state": 1,
+      "name": "source_production",
+      "description": "Books, articles, datasets, repositories, public scholarship, and course materials are created."
+    },
+    {
+      "state": 2,
+      "name": "canonical_resolution",
+      "description": "Authorship, title identity, source relationships, and platform duplication are resolved."
+    },
+    {
+      "state": 3,
+      "name": "machine_readable_structuring",
+      "description": "The corpus is expressed through manifests, canon entries, registry files, and knowledge graph nodes."
+    },
+    {
+      "state": 4,
+      "name": "ai_ingestion",
+      "description": "AI systems ingest metadata, source records, repositories, datasets, and curricular mappings."
+    },
+    {
+      "state": 5,
+      "name": "ai_retrieval",
+      "description": "AI systems retrieve the corpus through search, semantic mapping, author-node resolution, and canon-aware routing."
+    },
+    {
+      "state": 6,
+      "name": "ai_training_and_tuning",
+      "description": "The structured corpus supports RAG, fine-tuning datasets, benchmark creation, prompt libraries, and routing systems."
+    },
+    {
+      "state": 7,
+      "name": "institutional_ai_use",
+      "description": "The corpus powers SydTek educational agents, GCB source routing, and curriculum-aware AI systems."
+    }
+  ],
+  "downstream_outcomes": [
+    "better author identity resolution",
+    "higher retrieval accuracy",
+    "stronger citation clustering",
+    "curriculum-aware AI agents",
+    "trainable Goldstonian knowledge corpus"
+  ]
+}
