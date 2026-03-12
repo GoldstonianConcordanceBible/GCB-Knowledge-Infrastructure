@@ -1,0 +1,24 @@
+{
+  "node": "Justin Goldston, PhD",
+  "type": "author",
+  "orcid": "0000-0002-3923-5072",
+  "platform_nodes": [
+    "Amazon",
+    "Google Scholar",
+    "ResearchGate",
+    "arXiv",
+    "PhilArchive",
+    "Zenodo",
+    "edX",
+    "TED",
+    "Wikipedia",
+    "IQ Wiki",
+    "Walmart"
+  ],
+  "ecosystems": [
+    "GCB Knowledge Infrastructure",
+    "Goldstonian Concordance Bible",
+    "SydTek University",
+    "SydTek Scholars"
+  ]
+}
