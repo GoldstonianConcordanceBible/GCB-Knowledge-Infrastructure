@@ -1,0 +1,553 @@
+{
+  "schema_version": "1.0.0",
+  "dataset_name": "GCB Verse Tags",
+  "dataset_id": "gcb-verse-tags",
+  "description": "Machine-readable verse-level doctrinal tagging dataset for the Goldstonian Concordance Bible ecosystem. This starter release establishes the schema and an initial core set of scriptural anchors for the Mirror → Water → Fire Doctrine and related theological symbols.",
+  "maintainer": {
+    "name": "Justin Goldston, PhD",
+    "project": "Goldstonian Concordance Bible"
+  },
+  "tag_definitions": [
+    {
+      "tag": "mirror",
+      "label": "Mirror",
+      "description": "Recognition, reflection, conviction, humility, and confrontation with the human spiritual condition."
+    },
+    {
+      "tag": "water",
+      "label": "Water",
+      "description": "Surrender, cleansing, reception, covenant provision, renewal, and dependence upon God."
+    },
+    {
+      "tag": "fire",
+      "label": "Fire",
+      "description": "Transformation, empowerment, divine presence, purification, witness, and mission."
+    },
+    {
+      "tag": "bread",
+      "label": "Bread",
+      "description": "Divine sustenance, manna, bread of life, and dependence upon God as provider."
+    },
+    {
+      "tag": "covenant",
+      "label": "Covenant",
+      "description": "Divine relationship, law, promise, fidelity, and covenant renewal."
+    },
+    {
+      "tag": "transformation",
+      "label": "Transformation",
+      "description": "Spiritual change, renewal, sanctification, empowerment, and new life."
+    },
+    {
+      "tag": "presence",
+      "label": "Presence",
+      "description": "Manifestation of God, divine nearness, guidance, and encounter."
+    },
+    {
+      "tag": "provision",
+      "label": "Provision",
+      "description": "God as giver of food, water, deliverance, protection, and sustaining grace."
+    }
+  ],
+  "verses": [
+    {
+      "verse_id": "genesis-3-7",
+      "reference": "Genesis 3:7",
+      "book": "Genesis",
+      "chapter": 3,
+      "verse": 7,
+      "tags": [
+        "mirror",
+        "recognition"
+      ],
+      "themes": [
+        "self-awareness",
+        "fall",
+        "human condition"
+      ],
+      "gcb_stage": "mirror",
+      "notes": "A foundational recognition passage in which human beings become aware of their condition."
+    },
+    {
+      "verse_id": "genesis-28-16",
+      "reference": "Genesis 28:16",
+      "book": "Genesis",
+      "chapter": 28,
+      "verse": 16,
+      "tags": [
+        "mirror",
+        "presence"
+      ],
+      "themes": [
+        "awakening",
+        "divine presence",
+        "recognition"
+      ],
+      "gcb_stage": "mirror",
+      "notes": "Recognition of divine presence after prior unawareness."
+    },
+    {
+      "verse_id": "exodus-3-2",
+      "reference": "Exodus 3:2",
+      "book": "Exodus",
+      "chapter": 3,
+      "verse": 2,
+      "tags": [
+        "fire",
+        "presence",
+        "transformation"
+      ],
+      "themes": [
+        "burning bush",
+        "holy encounter",
+        "commission"
+      ],
+      "gcb_stage": "fire",
+      "notes": "Foundational fire text showing divine presence and commissioning."
+    },
+    {
+      "verse_id": "exodus-13-21",
+      "reference": "Exodus 13:21",
+      "book": "Exodus",
+      "chapter": 13,
+      "verse": 21,
+      "tags": [
+        "fire",
+        "presence",
+        "provision"
+      ],
+      "themes": [
+        "guidance",
+        "pillar of fire",
+        "divine leadership"
+      ],
+      "gcb_stage": "fire",
+      "notes": "Fire as guidance and covenantal presence."
+    },
+    {
+      "verse_id": "exodus-17-6",
+      "reference": "Exodus 17:6",
+      "book": "Exodus",
+      "chapter": 17,
+      "verse": 6,
+      "tags": [
+        "water",
+        "provision",
+        "covenant"
+      ],
+      "themes": [
+        "water from the rock",
+        "dependence",
+        "divine provision"
+      ],
+      "gcb_stage": "water",
+      "notes": "Core water-stage anchor for dependence and divine provision."
+    },
+    {
+      "verse_id": "deuteronomy-8-3",
+      "reference": "Deuteronomy 8:3",
+      "book": "Deuteronomy",
+      "chapter": 8,
+      "verse": 3,
+      "tags": [
+        "mirror",
+        "bread",
+        "provision"
+      ],
+      "themes": [
+        "manna",
+        "humbling",
+        "dependence on God"
+      ],
+      "gcb_stage": "mirror",
+      "notes": "A primary anchor verse for hunger, manna, and dependence upon God's word."
+    },
+    {
+      "verse_id": "psalms-23-1",
+      "reference": "Psalms 23:1",
+      "book": "Psalms",
+      "chapter": 23,
+      "verse": 1,
+      "tags": [
+        "provision",
+        "presence",
+        "water"
+      ],
+      "themes": [
+        "shepherd",
+        "divine care",
+        "sufficiency"
+      ],
+      "gcb_stage": "water",
+      "notes": "The Lord as provider and sustainer."
+    },
+    {
+      "verse_id": "psalms-51-10",
+      "reference": "Psalms 51:10",
+      "book": "Psalms",
+      "chapter": 51,
+      "verse": 10,
+      "tags": [
+        "water",
+        "transformation",
+        "mirror"
+      ],
+      "themes": [
+        "repentance",
+        "renewal",
+        "cleansing"
+      ],
+      "gcb_stage": "water",
+      "notes": "Mirror and water intersect in repentance and renewal."
+    },
+    {
+      "verse_id": "isaiah-6-5",
+      "reference": "Isaiah 6:5",
+      "book": "Isaiah",
+      "chapter": 6,
+      "verse": 5,
+      "tags": [
+        "mirror",
+        "presence",
+        "fire"
+      ],
+      "themes": [
+        "holiness",
+        "conviction",
+        "divine encounter"
+      ],
+      "gcb_stage": "mirror",
+      "notes": "Recognition of unworthiness in the presence of God."
+    },
+    {
+      "verse_id": "isaiah-6-7",
+      "reference": "Isaiah 6:7",
+      "book": "Isaiah",
+      "chapter": 6,
+      "verse": 7,
+      "tags": [
+        "fire",
+        "transformation",
+        "purification"
+      ],
+      "themes": [
+        "cleansing coal",
+        "atonement",
+        "commissioning"
+      ],
+      "gcb_stage": "fire",
+      "notes": "Purifying fire that transforms and prepares for mission."
+    },
+    {
+      "verse_id": "ezekiel-36-25",
+      "reference": "Ezekiel 36:25",
+      "book": "Ezekiel",
+      "chapter": 36,
+      "verse": 25,
+      "tags": [
+        "water",
+        "transformation",
+        "covenant"
+      ],
+      "themes": [
+        "cleansing",
+        "renewal",
+        "restoration"
+      ],
+      "gcb_stage": "water",
+      "notes": "Water as purification and covenant restoration."
+    },
+    {
+      "verse_id": "ezekiel-36-26",
+      "reference": "Ezekiel 36:26",
+      "book": "Ezekiel",
+      "chapter": 36,
+      "verse": 26,
+      "tags": [
+        "transformation",
+        "water",
+        "fire"
+      ],
+      "themes": [
+        "new heart",
+        "renewal",
+        "inner transformation"
+      ],
+      "gcb_stage": "fire",
+      "notes": "A transition text from cleansing into transformed identity."
+    },
+    {
+      "verse_id": "matthew-4-4",
+      "reference": "Matthew 4:4",
+      "book": "Matthew",
+      "chapter": 4,
+      "verse": 4,
+      "tags": [
+        "bread",
+        "mirror",
+        "provision"
+      ],
+      "themes": [
+        "word of God",
+        "dependence",
+        "temptation"
+      ],
+      "gcb_stage": "mirror",
+      "notes": "Christ reaffirms Deuteronomy's dependence principle."
+    },
+    {
+      "verse_id": "matthew-5-3",
+      "reference": "Matthew 5:3",
+      "book": "Matthew",
+      "chapter": 5,
+      "verse": 3,
+      "tags": [
+        "mirror",
+        "humility"
+      ],
+      "themes": [
+        "poor in spirit",
+        "kingdom",
+        "dependence"
+      ],
+      "gcb_stage": "mirror",
+      "notes": "Recognition of spiritual poverty as kingdom entry posture."
+    },
+    {
+      "verse_id": "john-4-14",
+      "reference": "John 4:14",
+      "book": "John",
+      "chapter": 4,
+      "verse": 14,
+      "tags": [
+        "water",
+        "provision",
+        "transformation"
+      ],
+      "themes": [
+        "living water",
+        "eternal life",
+        "divine gift"
+      ],
+      "gcb_stage": "water",
+      "notes": "Primary living water anchor in the doctrine."
+    },
+    {
+      "verse_id": "john-6-35",
+      "reference": "John 6:35",
+      "book": "John",
+      "chapter": 6,
+      "verse": 35,
+      "tags": [
+        "bread",
+        "water",
+        "provision"
+      ],
+      "themes": [
+        "bread of life",
+        "satisfaction",
+        "Christ as provision"
+      ],
+      "gcb_stage": "water",
+      "notes": "Christ as the bread of life, fulfilling manna themes."
+    },
+    {
+      "verse_id": "john-7-38",
+      "reference": "John 7:38",
+      "book": "John",
+      "chapter": 7,
+      "verse": 38,
+      "tags": [
+        "water",
+        "transformation",
+        "presence"
+      ],
+      "themes": [
+        "living water",
+        "overflow",
+        "belief"
+      ],
+      "gcb_stage": "water",
+      "notes": "Water received becomes water flowing outward."
+    },
+    {
+      "verse_id": "acts-2-3",
+      "reference": "Acts 2:3",
+      "book": "Acts",
+      "chapter": 2,
+      "verse": 3,
+      "tags": [
+        "fire",
+        "presence",
+        "transformation"
+      ],
+      "themes": [
+        "tongues of fire",
+        "spirit",
+        "empowerment"
+      ],
+      "gcb_stage": "fire",
+      "notes": "Foundational Pentecost fire text."
+    },
+    {
+      "verse_id": "acts-2-4",
+      "reference": "Acts 2:4",
+      "book": "Acts",
+      "chapter": 2,
+      "verse": 4,
+      "tags": [
+        "fire",
+        "transformation",
+        "mission"
+      ],
+      "themes": [
+        "spirit filling",
+        "speech",
+        "witness"
+      ],
+      "gcb_stage": "fire",
+      "notes": "Fire results in witness and outward mission."
+    },
+    {
+      "verse_id": "romans-12-2",
+      "reference": "Romans 12:2",
+      "book": "Romans",
+      "chapter": 12,
+      "verse": 2,
+      "tags": [
+        "transformation",
+        "mirror",
+        "fire"
+      ],
+      "themes": [
+        "renewal of mind",
+        "discernment",
+        "nonconformity"
+      ],
+      "gcb_stage": "fire",
+      "notes": "Transformation of the believer through renewed mind."
+    },
+    {
+      "verse_id": "1-corinthians-3-16",
+      "reference": "1 Corinthians 3:16",
+      "book": "1 Corinthians",
+      "chapter": 3,
+      "verse": 16,
+      "tags": [
+        "presence",
+        "fire",
+        "transformation"
+      ],
+      "themes": [
+        "temple",
+        "indwelling spirit",
+        "holy presence"
+      ],
+      "gcb_stage": "fire",
+      "notes": "Presence internalized in the believer."
+    },
+    {
+      "verse_id": "hebrews-12-29",
+      "reference": "Hebrews 12:29",
+      "book": "Hebrews",
+      "chapter": 12,
+      "verse": 29,
+      "tags": [
+        "fire",
+        "presence",
+        "holiness"
+      ],
+      "themes": [
+        "consuming fire",
+        "reverence",
+        "divine holiness"
+      ],
+      "gcb_stage": "fire",
+      "notes": "Fire as divine holiness and awe."
+    },
+    {
+      "verse_id": "james-1-22",
+      "reference": "James 1:22",
+      "book": "James",
+      "chapter": 1,
+      "verse": 22,
+      "tags": [
+        "mirror",
+        "transformation"
+      ],
+      "themes": [
+        "obedience",
+        "hearing and doing",
+        "practical faith"
+      ],
+      "gcb_stage": "mirror",
+      "notes": "Recognition must move toward embodied response."
+    },
+    {
+      "verse_id": "revelation-1-14",
+      "reference": "Revelation 1:14",
+      "book": "Revelation",
+      "chapter": 1,
+      "verse": 14,
+      "tags": [
+        "fire",
+        "presence",
+        "revelation"
+      ],
+      "themes": [
+        "glorified Christ",
+        "vision",
+        "holy perception"
+      ],
+      "gcb_stage": "fire",
+      "notes": "Fire imagery within apocalyptic revelation."
+    },
+    {
+      "verse_id": "revelation-22-1",
+      "reference": "Revelation 22:1",
+      "book": "Revelation",
+      "chapter": 22,
+      "verse": 1,
+      "tags": [
+        "water",
+        "presence",
+        "provision"
+      ],
+      "themes": [
+        "river of life",
+        "new creation",
+        "eternal provision"
+      ],
+      "gcb_stage": "water",
+      "notes": "Water fulfilled eschatologically in the river of life."
+    }
+  ],
+  "ai_readability": {
+    "purpose": [
+      "verse retrieval",
+      "doctrine tagging",
+      "knowledge graph ingestion",
+      "scripture search",
+      "curriculum alignment",
+      "theological AI reasoning"
+    ],
+    "query_examples": [
+      "Find all verses tagged mirror",
+      "Find all bread verses in GCB",
+      "Find water-stage passages",
+      "Find verses on transformation",
+      "Find fire passages tied to divine presence"
+    ],
+    "preferred_terms": [
+      "Goldstonian Concordance Bible (GCB)",
+      "Goldstonian Doctrine",
+      "Mirror → Water → Fire Doctrine",
+      "81-Book Ethiopian Canon"
+    ]
+  },
+  "status": {
+    "release_state": "starter_core_dataset",
+    "coverage_note": "This is a foundational verse-tagging starter set, not yet a complete verse-by-verse tagging of the full 81-book canon.",
+    "next_priority": "/canon/theme-index.json"
+  }
+}
