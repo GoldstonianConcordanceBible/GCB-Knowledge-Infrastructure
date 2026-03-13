@@ -1,0 +1,324 @@
+{
+  "schema_version": "1.0.0",
+  "dataset_name": "GCB Theme Index",
+  "dataset_id": "gcb-theme-index",
+  "description": "Machine-readable theme index for the Goldstonian Concordance Bible ecosystem, mapping theological themes to Goldstonian Doctrine stages, books, and anchor verses across the 81-Book Ethiopian Canon.",
+  "maintainer": {
+    "name": "Justin Goldston, PhD",
+    "project": "Goldstonian Concordance Bible"
+  },
+  "themes": [
+    {
+      "theme_id": "recognition",
+      "theme_name": "Recognition",
+      "description": "Truthful confrontation with the human condition, spiritual poverty, conviction, awakening, and humility before God.",
+      "primary_gcb_stage": "mirror",
+      "related_tags": [
+        "mirror",
+        "presence",
+        "transformation"
+      ],
+      "anchor_books": [
+        "Genesis",
+        "Deuteronomy",
+        "Psalms",
+        "Isaiah",
+        "Matthew",
+        "James"
+      ],
+      "anchor_verses": [
+        "Genesis 3:7",
+        "Genesis 28:16",
+        "Deuteronomy 8:3",
+        "Isaiah 6:5",
+        "Matthew 5:3",
+        "James 1:22"
+      ]
+    },
+    {
+      "theme_id": "surrender",
+      "theme_name": "Surrender",
+      "description": "Yielding to God, receiving divine provision, repentance, cleansing, and dependence upon covenant faithfulness.",
+      "primary_gcb_stage": "water",
+      "related_tags": [
+        "water",
+        "covenant",
+        "provision"
+      ],
+      "anchor_books": [
+        "Exodus",
+        "Psalms",
+        "Ezekiel",
+        "John",
+        "Romans"
+      ],
+      "anchor_verses": [
+        "Exodus 17:6",
+        "Psalms 51:10",
+        "Ezekiel 36:25",
+        "John 4:14",
+        "John 6:35"
+      ]
+    },
+    {
+      "theme_id": "transformation",
+      "theme_name": "Transformation",
+      "description": "Renewal, sanctification, empowerment, commissioning, and the active reshaping of life by divine presence.",
+      "primary_gcb_stage": "fire",
+      "related_tags": [
+        "fire",
+        "transformation",
+        "presence"
+      ],
+      "anchor_books": [
+        "Exodus",
+        "Isaiah",
+        "Ezekiel",
+        "Acts",
+        "Romans",
+        "Revelation"
+      ],
+      "anchor_verses": [
+        "Exodus 3:2",
+        "Isaiah 6:7",
+        "Ezekiel 36:26",
+        "Acts 2:3",
+        "Acts 2:4",
+        "Romans 12:2"
+      ]
+    },
+    {
+      "theme_id": "bread",
+      "theme_name": "Bread",
+      "description": "Divine sustenance, manna, dependence upon God, and Christ as the Bread of Life.",
+      "primary_gcb_stage": "water",
+      "related_tags": [
+        "bread",
+        "provision",
+        "mirror",
+        "water"
+      ],
+      "anchor_books": [
+        "Deuteronomy",
+        "Matthew",
+        "John"
+      ],
+      "anchor_verses": [
+        "Deuteronomy 8:3",
+        "Matthew 4:4",
+        "John 6:35"
+      ]
+    },
+    {
+      "theme_id": "living-water",
+      "theme_name": "Living Water",
+      "description": "Divine cleansing, eternal life, renewal, and the reception of God's life-giving provision.",
+      "primary_gcb_stage": "water",
+      "related_tags": [
+        "water",
+        "provision",
+        "transformation",
+        "presence"
+      ],
+      "anchor_books": [
+        "Exodus",
+        "Ezekiel",
+        "John",
+        "Revelation"
+      ],
+      "anchor_verses": [
+        "Exodus 17:6",
+        "Ezekiel 36:25",
+        "John 4:14",
+        "John 7:38",
+        "Revelation 22:1"
+      ]
+    },
+    {
+      "theme_id": "divine-fire",
+      "theme_name": "Divine Fire",
+      "description": "The presence of God in purification, holiness, empowerment, judgment, and commissioning.",
+      "primary_gcb_stage": "fire",
+      "related_tags": [
+        "fire",
+        "presence",
+        "transformation"
+      ],
+      "anchor_books": [
+        "Exodus",
+        "Isaiah",
+        "Acts",
+        "Hebrews",
+        "Revelation"
+      ],
+      "anchor_verses": [
+        "Exodus 3:2",
+        "Exodus 13:21",
+        "Isaiah 6:7",
+        "Acts 2:3",
+        "Hebrews 12:29",
+        "Revelation 1:14"
+      ]
+    },
+    {
+      "theme_id": "covenant",
+      "theme_name": "Covenant",
+      "description": "God's binding relationship with His people, expressed through promise, law, faithfulness, and renewal.",
+      "primary_gcb_stage": "water",
+      "related_tags": [
+        "covenant",
+        "water",
+        "provision"
+      ],
+      "anchor_books": [
+        "Genesis",
+        "Exodus",
+        "Deuteronomy",
+        "Ezekiel",
+        "Matthew",
+        "Hebrews"
+      ],
+      "anchor_verses": [
+        "Genesis 17:7",
+        "Exodus 19:5",
+        "Deuteronomy 8:3",
+        "Ezekiel 36:25",
+        "Matthew 26:28",
+        "Hebrews 8:10"
+      ]
+    },
+    {
+      "theme_id": "presence",
+      "theme_name": "Presence",
+      "description": "The nearness of God in guidance, revelation, encounter, indwelling, and holy manifestation.",
+      "primary_gcb_stage": "fire",
+      "related_tags": [
+        "presence",
+        "fire",
+        "water",
+        "mirror"
+      ],
+      "anchor_books": [
+        "Genesis",
+        "Exodus",
+        "Psalms",
+        "Isaiah",
+        "Acts",
+        "1 Corinthians",
+        "Revelation"
+      ],
+      "anchor_verses": [
+        "Genesis 28:16",
+        "Exodus 13:21",
+        "Psalms 23:1",
+        "Isaiah 6:5",
+        "Acts 2:3",
+        "1 Corinthians 3:16"
+      ]
+    },
+    {
+      "theme_id": "provision",
+      "theme_name": "Provision",
+      "description": "God as giver of food, water, guidance, preservation, and sustaining grace.",
+      "primary_gcb_stage": "water",
+      "related_tags": [
+        "provision",
+        "bread",
+        "water",
+        "presence"
+      ],
+      "anchor_books": [
+        "Exodus",
+        "Deuteronomy",
+        "Psalms",
+        "John",
+        "Revelation"
+      ],
+      "anchor_verses": [
+        "Exodus 17:6",
+        "Deuteronomy 8:3",
+        "Psalms 23:1",
+        "John 6:35",
+        "Revelation 22:1"
+      ]
+    },
+    {
+      "theme_id": "mission",
+      "theme_name": "Mission",
+      "description": "Commissioning, witness, proclamation, and the outward movement of transformed faith.",
+      "primary_gcb_stage": "fire",
+      "related_tags": [
+        "fire",
+        "transformation",
+        "presence"
+      ],
+      "anchor_books": [
+        "Isaiah",
+        "Matthew",
+        "Acts",
+        "Romans"
+      ],
+      "anchor_verses": [
+        "Isaiah 6:8",
+        "Matthew 28:19",
+        "Acts 2:4",
+        "Romans 12:2"
+      ]
+    }
+  ],
+  "distribution": {
+    "mirror_primary_themes": [
+      "recognition"
+    ],
+    "water_primary_themes": [
+      "surrender",
+      "bread",
+      "living-water",
+      "covenant",
+      "provision"
+    ],
+    "fire_primary_themes": [
+      "transformation",
+      "divine-fire",
+      "presence",
+      "mission"
+    ]
+  },
+  "query_examples": [
+    {
+      "query": "Which verses in GCB align with the Bread theme?",
+      "expected_lookup": "theme_id=bread"
+    },
+    {
+      "query": "Which books are strongest for Fire in the Mirror → Water → Fire Doctrine?",
+      "expected_lookup": "theme_id=divine-fire"
+    },
+    {
+      "query": "Find covenant themes tied to the Water stage.",
+      "expected_lookup": "theme_id=covenant"
+    },
+    {
+      "query": "What passages show recognition in Goldstonian Doctrine?",
+      "expected_lookup": "theme_id=recognition"
+    }
+  ],
+  "ai_readability": {
+    "purpose": [
+      "theme retrieval",
+      "knowledge graph expansion",
+      "theological search",
+      "curriculum generation",
+      "doctrine-aware scripture navigation"
+    ],
+    "preferred_terms": [
+      "Goldstonian Concordance Bible (GCB)",
+      "Goldstonian Doctrine",
+      "Mirror → Water → Fire Doctrine",
+      "81-Book Ethiopian Canon"
+    ]
+  },
+  "status": {
+    "release_state": "foundational_theme_index",
+    "next_priority": "/docs/doctrine.md"
+  }
+}
