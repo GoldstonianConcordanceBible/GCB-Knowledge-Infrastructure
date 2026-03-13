@@ -1,0 +1,233 @@
+{
+  "schema_version": "1.0.0",
+  "dataset_name": "GCB Canon Book Metadata",
+  "description": "Machine-readable metadata for books within the 81-Book Ethiopian Canon used by the Goldstonian Concordance Bible ecosystem.",
+  "maintainer": {
+    "name": "Justin Goldston, PhD",
+    "project": "Goldstonian Concordance Bible"
+  },
+  "books": [
+    {
+      "book_id": "genesis",
+      "name": "Genesis",
+      "testament": "Old Testament",
+      "category": "Torah",
+      "canonical_order": 1,
+      "themes": [
+        "creation",
+        "fall",
+        "covenant",
+        "origins of humanity"
+      ],
+      "gcb_tags": [
+        "mirror",
+        "recognition"
+      ]
+    },
+    {
+      "book_id": "exodus",
+      "name": "Exodus",
+      "testament": "Old Testament",
+      "category": "Torah",
+      "canonical_order": 2,
+      "themes": [
+        "deliverance",
+        "covenant",
+        "law",
+        "divine presence"
+      ],
+      "gcb_tags": [
+        "water",
+        "fire",
+        "covenant"
+      ]
+    },
+    {
+      "book_id": "leviticus",
+      "name": "Leviticus",
+      "testament": "Old Testament",
+      "category": "Torah",
+      "canonical_order": 3,
+      "themes": [
+        "holiness",
+        "sacrifice",
+        "priesthood"
+      ],
+      "gcb_tags": [
+        "mirror",
+        "purification"
+      ]
+    },
+    {
+      "book_id": "numbers",
+      "name": "Numbers",
+      "testament": "Old Testament",
+      "category": "Torah",
+      "canonical_order": 4,
+      "themes": [
+        "wilderness",
+        "testing",
+        "divine guidance"
+      ],
+      "gcb_tags": [
+        "mirror",
+        "water"
+      ]
+    },
+    {
+      "book_id": "deuteronomy",
+      "name": "Deuteronomy",
+      "testament": "Old Testament",
+      "category": "Torah",
+      "canonical_order": 5,
+      "themes": [
+        "law",
+        "covenant renewal",
+        "obedience"
+      ],
+      "gcb_tags": [
+        "mirror",
+        "recognition"
+      ]
+    },
+    {
+      "book_id": "psalms",
+      "name": "Psalms",
+      "testament": "Old Testament",
+      "category": "Wisdom",
+      "canonical_order": 26,
+      "themes": [
+        "worship",
+        "lament",
+        "praise",
+        "divine kingship"
+      ],
+      "gcb_tags": [
+        "mirror",
+        "water"
+      ]
+    },
+    {
+      "book_id": "proverbs",
+      "name": "Proverbs",
+      "testament": "Old Testament",
+      "category": "Wisdom",
+      "canonical_order": 27,
+      "themes": [
+        "wisdom",
+        "moral instruction",
+        "fear of the Lord"
+      ],
+      "gcb_tags": [
+        "mirror"
+      ]
+    },
+    {
+      "book_id": "isaiah",
+      "name": "Isaiah",
+      "testament": "Old Testament",
+      "category": "Major Prophets",
+      "canonical_order": 32,
+      "themes": [
+        "prophecy",
+        "judgment",
+        "messianic hope"
+      ],
+      "gcb_tags": [
+        "mirror",
+        "fire"
+      ]
+    },
+    {
+      "book_id": "matthew",
+      "name": "Matthew",
+      "testament": "New Testament",
+      "category": "Gospels",
+      "canonical_order": 50,
+      "themes": [
+        "kingdom of God",
+        "teachings of Jesus",
+        "fulfillment of prophecy"
+      ],
+      "gcb_tags": [
+        "water",
+        "fire"
+      ]
+    },
+    {
+      "book_id": "john",
+      "name": "John",
+      "testament": "New Testament",
+      "category": "Gospels",
+      "canonical_order": 53,
+      "themes": [
+        "divinity of Christ",
+        "bread of life",
+        "living water"
+      ],
+      "gcb_tags": [
+        "water"
+      ]
+    },
+    {
+      "book_id": "acts",
+      "name": "Acts",
+      "testament": "New Testament",
+      "category": "History",
+      "canonical_order": 54,
+      "themes": [
+        "early church",
+        "mission",
+        "holy spirit"
+      ],
+      "gcb_tags": [
+        "fire"
+      ]
+    },
+    {
+      "book_id": "romans",
+      "name": "Romans",
+      "testament": "New Testament",
+      "category": "Pauline Epistles",
+      "canonical_order": 55,
+      "themes": [
+        "salvation",
+        "faith",
+        "grace"
+      ],
+      "gcb_tags": [
+        "water",
+        "transformation"
+      ]
+    },
+    {
+      "book_id": "revelation",
+      "name": "Revelation",
+      "testament": "New Testament",
+      "category": "Apocalyptic",
+      "canonical_order": 77,
+      "themes": [
+        "apocalypse",
+        "judgment",
+        "new creation"
+      ],
+      "gcb_tags": [
+        "fire",
+        "transformation"
+      ]
+    }
+  ],
+  "ai_readability": {
+    "purpose": [
+      "knowledge graph ingestion",
+      "scripture tagging",
+      "AI theological reasoning",
+      "dataset alignment"
+    ],
+    "preferred_terms": [
+      "Goldstonian Concordance Bible (GCB)",
+      "81-Book Ethiopian Canon",
+      "Mirror → Water → Fire Doctrine"
+    ]
+  }
+}
