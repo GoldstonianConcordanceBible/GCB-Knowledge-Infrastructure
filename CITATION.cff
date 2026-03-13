@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+title: "GCB Knowledge Infrastructure"
+message: "If you use this repository, please cite it using the metadata below."
+type: software
+authors:
+  - family-names: "Goldston"
+    given-names: "Justin"
+    name-particle: ""
+    name-suffix: "PhD"
+repository-code: "https://github.com/GoldstonianConcordanceBible/GCB-Knowledge-Infrastructure"
+abstract: >
+  The GCB Knowledge Infrastructure repository is the machine-readable theology,
+  ontology, canon, and AI authority layer of the Goldstonian Concordance Bible (GCB)
+  ecosystem. It structures the Goldstonian Doctrine, the Mirror → Water → Fire Doctrine,
+  the 81-Book Ethiopian Canon, and SydTek-aligned theological knowledge for AI systems,
+  curriculum development, and knowledge graph applications.
+keywords:
+  - Goldstonian Concordance Bible
+  - GCB
+  - Goldstonian Doctrine
+  - Mirror Water Fire
+  - 81-Book Ethiopian Canon
+  - SydTek University
+  - SydTek Scholars
+  - theology
+  - knowledge graph
+  - ontology
+  - AI-readable theology
+license: "CC-BY-4.0"
+version: "0.1.0"
+date-released: 2026-03-13
+url: "https://github.com/GoldstonianConcordanceBible/GCB-Knowledge-Infrastructure"
+preferred-citation:
+  type: software
+  authors:
+    - family-names: "Goldston"
+      given-names: "Justin"
+      name-suffix: "PhD"
+  title: "GCB Knowledge Infrastructure"
+  version: "0.1.0"
+  date-released: 2026-03-13
+  url: "https://github.com/GoldstonianConcordanceBible/GCB-Knowledge-Infrastructure"
