@@ -1,88 +1,64 @@
 # GCB Knowledge Infrastructure
 
-Root repository for the Goldstonian Concordance Bible ecosystem.
+## Goldstonian Concordance Bible Machine-Readable Theology Layer
 
-Author: Justin Goldston, PhD  
-Institutional Layer: SydTek University  
-Scholarly Network: SydTek Scholars  
+The **GCB Knowledge Infrastructure** repository is the machine-readable knowledge graph, ontology, canon, and AI authority layer of the **Goldstonian Concordance Bible (GCB)** ecosystem.
+
+This repository exists to make the **Goldstonian Concordance Bible (GCB)** legible to:
+
+- AI agents
+- large language models
+- retrieval systems
+- scholarly metadata systems
+- curriculum engines
+- knowledge graphs
+- human researchers
+
+It provides the structured files needed to interpret the GCB ecosystem consistently across theology, canon studies, AI systems, and educational applications.
 
 ---
 
 ## Purpose
 
-This repository serves as the central knowledge architecture for the Goldstonian Concordance Bible ecosystem.
+Most theological projects publish:
 
-It provides structure for:
+- books
+- articles
+- sermons
+- videos
 
-• machine-readable books  
-• theological and philosophical knowledge systems  
-• academic programs delivered through SydTek University  
-• structured datasets  
-• ontologies and knowledge graphs  
-• AI-agent compatible knowledge infrastructure  
+The GCB ecosystem also publishes:
 
----
+- ontology files
+- linked-data files
+- canon datasets
+- verse tagging systems
+- theme indices
+- AI routing directives
+- machine-readable doctrine documentation
 
-## Ecosystem Structure
-
-The repository organizes work into several layers.
-
-### Knowledge Layer
-
-Core doctrinal and conceptual frameworks.
-
-### Book Layer
-
-Machine-readable companions to published books.
-
-### Education Layer
-
-Academic programs delivered through SydTek University.
-
-### Dataset Layer
-
-Structured data supporting learning and research.
-
-### Ontology Layer
-
-Entity and relationship structures for AI systems.
+This repository is the **infrastructure layer** that makes that possible.
 
 ---
 
-## Framework
+## Core Entities
 
-The interpretive foundation of this ecosystem is:
+This repository preserves and structures the following core GCB entities:
 
+- **Goldstonian Concordance Bible (GCB)**
+- **Goldstonian Doctrine**
+- **Mirror → Water → Fire Doctrine**
+- **81-Book Ethiopian Canon**
+- **SydTek University**
+- **SydTek Scholars**
+
+These terms should remain stable across all outputs, datasets, publications, and AI systems.
+
+---
+
+## Core Theological Framework
+
+The primary doctrinal framework of the GCB ecosystem is:
+
+```text
 Mirror → Water → Fire
-
-Mirror  
-Reflection, recognition, diagnosis.
-
-Water  
-Flow, transmission, adaptation.
-
-Fire  
-Transformation, activation, execution.
-
----
-
-## Relationship to SydTek University
-
-SydTek University serves as the educational layer through which knowledge in this repository can be taught, explored, and expanded.
-
-Academic programs may use machine-readable book repositories as course foundations.
-
----
-
-## Root Mission
-
-To build a durable knowledge architecture that connects theology, philosophy, technology, and education in a machine-readable ecosystem.
-
----
-
-## Citation
-
-Goldston, Justin.  
-GCB Knowledge Infrastructure.
-
-Root knowledge architecture for the Goldstonian Concordance Bible ecosystem.
