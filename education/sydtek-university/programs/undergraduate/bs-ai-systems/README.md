@@ -1,108 +1,161 @@
-# BS-AIS Program
-Bachelor of Science in Artificial Intelligence Systems
+# Bachelor of Science in Artificial Intelligence Systems
 
 Institution: SydTek University
 
-Credits: 120  
-Level: Undergraduate
+This program explores the design, analysis, deployment, and governance of artificial intelligence systems.
 
-## Program Description
+The degree draws from the broader SydTek University framework for inspectable, GitHub-native learning and is designed to support undergraduate preparation in machine learning, neural systems, natural language processing, autonomous agents, AI infrastructure, and knowledge-based systems.
 
-The Bachelor of Science in Artificial Intelligence Systems prepares students to design, evaluate, document, and deploy intelligent systems using modern machine learning, neural networks, natural language processing, knowledge representation, agent systems, and AI infrastructure.
+The broader pedagogical framework of the program is also informed by:
 
-The program is designed for GitHub-native academic delivery. Student work is preserved through inspectable repositories that serve as durable evidence for learning, assessment, academic review, and accreditation support.
+Open Discussion Pedagogy: A PhD-Level Framework for Public, Evidence-Linked Learning
 
-The curriculum emphasizes both theory and implementation. Students move from computational foundations to machine learning practice, from neural architectures to autonomous agents, and from AI ethics to capstone deployment. The program is structured to support reproducibility, inspectable technical work, and evidence-linked learning.
+* * *
 
-## Program Purpose
+## Degree Focus
 
-This program exists to prepare graduates who can:
+Students learn to understand, evaluate, and build:
 
-- understand the mathematical and computational foundations of AI
-- build reproducible machine learning systems
-- analyze data and model behavior responsibly
-- deploy AI systems with documentation and evaluation
-- contribute to open technical and scholarly infrastructure
-- preserve academic work in inspectable GitHub repositories
+* machine learning systems
+* neural network architectures
+* natural language processing workflows
+* autonomous and multi-agent systems
+* AI infrastructure and deployment pipelines
+* knowledge graphs and reasoning systems
+* ethical and governance frameworks for AI
 
-## Program Learning Outcomes
+* * *
 
-Graduates of the BS-AIS program will be able to:
+## Program Structure
 
-1. explain foundational concepts in artificial intelligence, machine learning, neural networks, and intelligent systems
-2. apply mathematics, statistics, and computational reasoning to AI problems
-3. build, evaluate, and refine machine learning and deep learning models
-4. design reproducible AI workflows using documented datasets, code, and evaluation methods
-5. analyze ethical, social, and governance issues related to AI systems
-6. communicate AI findings through technical writing, repository documentation, and inspectable artifacts
-7. design AI systems that integrate models, infrastructure, and deployment considerations
-8. complete a substantial capstone project demonstrating undergraduate-level mastery in AI systems
+Major Core  
+Mathematics and Computing Foundations  
+AI Engineering and Advanced Systems  
+General Education  
+Senior Capstone
 
-## GitHub Evidence Statement
+* * *
 
-Where repository-based work is required, academic credit is awarded for verifiable documented work aligned to course and program outcomes.
+## GitHub Evidence Principle
 
-Repository visibility may be public or private unless otherwise stated, but authorized academic reviewers must be able to inspect the required evidence.
+SydTek University uses GitHub as a primary evidence environment for many courses in this program.
 
-Acceptable evidence may include code, notebooks, datasets, documentation, issue tracking, pull requests, release records, evaluation files, architecture notes, model cards, and final reports.
+In GitHub-based courses, academic credit is awarded for verifiable documented work aligned to course outcomes.
 
-## Open Discussion Pedagogy Note
+Repositories may be public or private unless otherwise stated, but authorized academic reviewers must be able to inspect required evidence.
 
-This program may use structured critique of AI systems, inspectable peer discussion, evidence-linked technical reflection, and documented revision workflows.
+Examples of evidence may include code, notebooks, datasets, model documentation, issue logs, pull requests, evaluation reports, architecture notes, release records, and final presentations.
+
+* * *
+
+## Public and Private Pathways
+
+Public engagement may strengthen authentic learning, technical visibility, and portfolio development.
+
+However, students must have an equivalent rigorous pathway where public visibility is not appropriate.
+
+The academic standard is documented, assessable learning under faculty oversight.
+
+* * *
 
 ## Mirror → Water → Fire Alignment
 
-Mirror: represent computational systems, models, datasets, and technical claims accurately  
-Water: interpret patterns, compare architectures, analyze results, and contextualize implications  
-Fire: refine, deploy, document, and present AI systems through inspectable academic artifacts
+Mirror  
+Represent computational systems, datasets, models, and technical claims accurately.
 
-## Degree Structure
+Water  
+Interpret results, compare architectures, analyze tradeoffs, and contextualize implications.
 
-Total Credits: 120
+Fire  
+Refine, deploy, document, and present AI systems through inspectable academic artifacts.
 
-- General Education: 30
-- Mathematics and Computing Foundations: 18
-- AI Core: 36
-- AI Engineering and Advanced Systems: 24
-- Electives: 6
-- Capstone: 6
+* * *
 
-## Suggested Program Sequence
+## Program Outcomes
 
-### Year 1
-- AIS-101 Introduction to Artificial Intelligence
-- AIS-110 Programming for AI Systems
-- AIS-120 Data Structures for Intelligent Systems
-- MATH-130 Linear Algebra for AI
-- MATH-140 Probability and Statistics for AI
-- General Education coursework
+Graduates of this program should be able to:
 
-### Year 2
-- AIS-201 Machine Learning Foundations
-- AIS-210 Data Engineering for AI
-- AIS-220 Neural Networks
-- AIS-230 Natural Language Processing
-- AIS-240 AI Research Methods
-- General Education coursework
+1. explain core concepts in artificial intelligence, machine learning, neural networks, and intelligent systems
+2. apply mathematics, statistics, and programming to AI problems
+3. build and evaluate reproducible machine learning workflows
+4. document AI systems through inspectable technical artifacts
+5. analyze ethical, governance, and societal issues in AI
+6. complete an undergraduate capstone demonstrating AI system design and implementation
 
-### Year 3
-- AIS-301 Deep Learning Systems
-- AIS-310 AI Agents and Autonomous Systems
-- AIS-320 AI Infrastructure and MLOps
-- AIS-330 AI Knowledge Graphs
-- AIS-340 AI Ethics and Governance
-- Elective coursework
+* * *
 
-### Year 4
-- AIS-401 Advanced AI Architectures
-- AIS-410 AI for Web3 Systems
-- AIS-420 AI Security
-- AIS-490 AI Research Proposal
-- AIS-495 AI Capstone Project
-- Elective coursework
+## Curriculum Areas
 
-## Program Completion Standard
+The program includes coursework in:
 
-To complete the BS-AIS program, students must successfully complete required coursework, satisfy program learning outcomes, and submit required GitHub-verifiable evidence in courses where repository-based assessment is used.
+* AI foundations
+* programming for AI systems
+* data structures and intelligent systems
+* machine learning foundations
+* data engineering for AI
+* neural networks
+* natural language processing
+* AI research methods
+* deep learning systems
+* AI agents and autonomous systems
+* AI infrastructure and MLOps
+* AI knowledge graphs
+* AI ethics and governance
+* advanced AI architectures
+* AI for Web3 systems
+* AI security
+* capstone proposal and final capstone project
 
-Capstone completion requires a substantial AI project with documented architecture, implementation, evaluation, and final presentation materials.
+* * *
+
+## Accreditation Readiness
+
+This program is structured to support accreditation-oriented review through:
+
+* clearly stated program outcomes
+* course-level learning outcomes
+* inspectable evidence requirements
+* capstone sequencing
+* assessment planning
+* documented progression standards
+* faculty-reviewable student artifacts
+
+* * *
+
+## Repository Contents
+
+This folder may include documents such as:
+
+* course catalog
+* course sequence
+* degree plan
+* outcomes
+* assessment plan
+* accreditation notes
+* capstone model
+* practicum or internship framework
+* portfolio review framework
+* student progression standards
+* faculty model
+* audit packet framework
+
+* * *
+
+## Intended Use
+
+This repository structure is intended to support:
+
+* undergraduate program design
+* accreditation preparation
+* curriculum review
+* academic audit readiness
+* GitHub-based evidence collection
+* inspectable student learning workflows
+
+* * *
+
+## SydTek University Note
+
+This program is designed to align rigorous undergraduate AI education with inspectable academic work, reproducibility, and evidence-linked learning.
+
+Where GitHub is used, the repository is not a substitute for faculty oversight. It is the documented evidence layer through which learning, revision, and achievement can be reviewed.
