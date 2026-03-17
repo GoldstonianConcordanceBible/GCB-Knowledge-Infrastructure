@@ -1,0 +1,11 @@
+{
+  "course_id": "GCB-501",
+  "title": "Advanced Soteriology",
+  "program": "Master of Theological Systems",
+  "institution": "SydTek University",
+  "credits": 3,
+  "level": "graduate",
+  "tags": ["salvation", "grace", "faith", "works", "justification"],
+  "ai_ready": true,
+  "playlist_aligned": true
+}
