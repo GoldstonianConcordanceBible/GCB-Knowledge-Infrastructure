@@ -1,0 +1,21 @@
+Year,Term,Course,Credits,Category
+1,1,ESPT 110,1,Core
+1,1,ESPT 120,4,Core
+1,1,BUAD 110,3,Core
+1,1,GAME 145,2,Core
+1,2,ESPT 210,4,Core
+1,2,ESPT 220,4,Core
+1,2,BUAD 220,3,Core
+2,3,ESPT 240,3,Core
+2,3,ESPT 245,3,Core
+2,3,Elective 1,3,Elective
+2,4,ESPT 310,4,Core
+2,4,ESPT 325,3,Core
+2,4,Elective 2,3,Elective
+3,5,ESPT 330,3,Core
+3,5,ESPT 340,3,Core
+3,5,Elective 3,3,Elective
+3,6,ESPT 350,4,Core
+3,6,ESPT 415,4,Core
+4,7,ESPT 420,4,Core
+4,8,ESPT 425,4,Core
