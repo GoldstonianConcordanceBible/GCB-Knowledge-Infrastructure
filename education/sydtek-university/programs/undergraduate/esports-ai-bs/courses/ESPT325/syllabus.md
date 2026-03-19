@@ -4,27 +4,21 @@
 3
 
 ## Description
-This course explores coaching strategies, player development, team dynamics, and performance analytics in esports.
+Focuses on coaching strategy, player development, and AI-supported performance analytics.
 
-## Learning Outcomes
-1. Analyze gameplay and team performance.
-2. Develop training strategies.
-3. Apply AI tools to performance analytics.
-4. Support team development.
-
-## AI Integration
-AI-assisted gameplay review and pattern detection.
+## CLOs
+1. Analyze gameplay performance.
+2. Develop training systems.
+3. Use AI tools for analytics.
+4. Optimize team performance.
 
 ## Assignments
-- Gameplay Analysis Report
+- Gameplay Analysis
 - Training Plan
-- Team Strategy Breakdown
+- Strategy Report
 
-## Assessment
-- Analysis → CLO1
-- Plan → CLO2
-- Strategy → CLO4
+## AI Integration
+AI for pattern recognition and performance tracking.
 
-## Playlist Mapping
-Gameplay Review,Analysis,1,Reflection
-Coaching Systems,Training,1,Applied
+## Status
+Accreditation-ready
