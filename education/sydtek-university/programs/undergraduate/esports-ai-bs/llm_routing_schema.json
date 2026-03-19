@@ -1,0 +1,99 @@
+{
+  "program_name": "Bachelor of Science in Esports, Gaming, and AI Performance",
+  "institution": "SydTek University",
+  "base_path": "education/sydtek-university/programs/undergraduate/esports-ai-bs",
+  "routing_version": "1.0",
+  "status": "pre-launch",
+  "root_documents": {
+    "readme": "README.md",
+    "accreditation_framework": "ACCREDITATION_FRAMEWORK.md",
+    "evidence_index": "EVIDENCE_INDEX.md",
+    "ai_compliance_audit": "AI_COMPLIANCE_AUDIT.md",
+    "ai_integration_standard": "AI_INTEGRATION_STANDARD.md"
+  },
+  "directories": {
+    "governance": {
+      "path": "governance/",
+      "purpose": "Policies, oversight, review cycles, faculty qualification rules, student-facing compliance documents"
+    },
+    "program": {
+      "path": "program/",
+      "purpose": "Degree structure, catalog language, outcome mapping, capstone framework, mission alignment"
+    },
+    "courses": {
+      "path": "courses/",
+      "purpose": "Core course folders containing syllabi, assignments, assessments, AI integration, and outcomes alignment"
+    },
+    "electives": {
+      "path": "electives/",
+      "purpose": "Elective course folders using the same academic structure as core courses"
+    },
+    "assessment": {
+      "path": "assessment/",
+      "purpose": "Program assessment plans, KPI templates, annual review tools, and closing-the-loop documentation"
+    },
+    "data": {
+      "path": "data/",
+      "purpose": "Program-level data templates and tracking files for enrollment, outcomes, completion, and AI use"
+    },
+    "mooc_integration": {
+      "path": "mooc_integration/",
+      "purpose": "Playlist governance, instructional engagement mapping, and MOOC-related delivery records"
+    },
+    "templates": {
+      "path": "templates/",
+      "purpose": "Reusable templates for syllabi, assignments, evidence logs, faculty records, and revision tracking"
+    }
+  },
+  "core_course_required_files": [
+    "syllabus.md",
+    "assignments.md",
+    "assessments.md",
+    "ai_integration.md",
+    "outcomes_alignment.md",
+    "playlist_mapping.csv"
+  ],
+  "priority_review_order": [
+    "ACCREDITATION_FRAMEWORK.md",
+    "EVIDENCE_INDEX.md",
+    "program/program_learning_outcomes.md",
+    "program/program_learning_outcomes_assessment_map.md",
+    "assessment/program_assessment_plan.md",
+    "assessment/closing_the_loop_report_template.md",
+    "governance/README.md",
+    "AI_COMPLIANCE_AUDIT.md"
+  ],
+  "status_notes": {
+    "fully_built_courses": [
+      "ESPT110",
+      "ESPT120",
+      "ESPT210",
+      "ESPT220",
+      "ESPT240",
+      "ESPT245"
+    ],
+    "stub_courses_pending_full_expansion": [
+      "ESPT310",
+      "ESPT325",
+      "ESPT330",
+      "ESPT340",
+      "ESPT350",
+      "ESPT415",
+      "ESPT420",
+      "ESPT425",
+      "GAME145",
+      "BUAD110",
+      "BUAD220"
+    ],
+    "electives_pending_build": [
+      "ESPT430",
+      "ESPT435",
+      "ESPT440",
+      "ESPT445",
+      "GAME230",
+      "GAME250",
+      "MKTG310",
+      "DATA210"
+    ]
+  }
+}
