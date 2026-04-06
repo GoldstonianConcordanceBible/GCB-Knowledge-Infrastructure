@@ -1,0 +1,65 @@
+program:
+  name: "Certificate in Sustainable Supply Chain Management & Corporate Social Responsibility"
+  institution: "SydTek University"
+  companion_pathway: "SydTek Scholars"
+  award_type: "Certificate"
+  delivery: "Online"
+  level:
+    university: "Undergraduate / Professional"
+    scholars: "Advanced Secondary / Honors"
+  duration:
+    university: "12 credit hours"
+    scholars: "12-16 weeks"
+  cip_tags:
+    - "Business"
+    - "Supply Chain Management"
+    - "Sustainability"
+    - "Corporate Social Responsibility"
+    - "Operations"
+    - "ESG"
+  learning_outcomes:
+    - "Explain sustainability and CSR in supply chain management."
+    - "Assess operational, ethical, and environmental supply chain risk."
+    - "Evaluate transparency, traceability, and collaboration strategies."
+    - "Apply AI, blockchain, analytics, and digital twin concepts to supply chain use cases."
+    - "Interpret compliance and disclosure expectations relevant to climate and ESG reporting."
+    - "Design a practical sustainable supply chain improvement strategy."
+
+courses:
+  - code: "SSCM 101"
+    title: "Foundations of Sustainable Supply Chains"
+    credits: 3
+    scholars_equivalent: "Module 1"
+  - code: "SSCM 201"
+    title: "Corporate Social Responsibility, Ethics, and Stakeholder Governance"
+    credits: 3
+    scholars_equivalent: "Module 2"
+  - code: "SSCM 301"
+    title: "Technology for Supply Chain Transparency and Resilience"
+    credits: 3
+    scholars_equivalent: "Module 3"
+  - code: "SSCM 401"
+    title: "Capstone: Sustainable Supply Chain Strategy Lab"
+    credits: 3
+    scholars_equivalent: "Module 4"
+
+assessment:
+  university:
+    - "Discussion boards"
+    - "Case briefs"
+    - "Applied analytics exercises"
+    - "Technology review"
+    - "Capstone strategy plan"
+  scholars:
+    - "Reflection responses"
+    - "Case study summaries"
+    - "Supply chain map"
+    - "Presentation"
+    - "Final portfolio"
+
+portfolio_artifacts:
+  - "Supply chain stakeholder map"
+  - "CSR policy critique"
+  - "ESG / disclosure readiness memo"
+  - "AI or blockchain use-case brief"
+  - "Final sustainable supply chain strategy deck"
