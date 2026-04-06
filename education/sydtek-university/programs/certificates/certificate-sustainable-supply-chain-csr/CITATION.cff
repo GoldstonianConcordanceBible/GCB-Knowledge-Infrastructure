@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+title: "Certificate in Sustainable Supply Chain Management & Corporate Social Responsibility"
+message: "If you use this certificate framework, please cite it using the metadata below."
+type: dataset
+authors:
+  - family-names: "Goldston"
+    given-names: "Justin"
+  - family-names: "SydTek University"
+    given-names: "Curriculum Team"
+repository-code: "https://github.com/GoldstonianConcordanceBible"
+license: "MIT"
+abstract: >
+  GitHub-native certificate framework for SydTek University and SydTek Scholars
+  focused on sustainable supply chain management, corporate social responsibility,
+  resilience, transparency, and emerging technology.
+keywords:
+  - sustainable supply chain
+  - corporate social responsibility
+  - supply chain management
+  - ESG
+  - resilience
+  - blockchain
+  - AI
+  - curriculum
+  - SydTek University
+  - SydTek Scholars
+version: "1.0.0"
