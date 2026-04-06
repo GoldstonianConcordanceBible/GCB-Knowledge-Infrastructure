@@ -6,11 +6,6 @@ This certificate prepares learners to design, evaluate, and improve supply chain
 The program is grounded in the public scholarship and teaching themes associated with Dr. Justin Goldston’s work in supply chain management, sustainability, CSR, AI, blockchain, and digital transformation.
 
 ---
-# Main README Paste Block
-
-Use this near the top of the main README.
-
----
 
 The **Certificate in Sustainable Supply Chain Management & Corporate Social Responsibility** is a GitHub-native academic program for **SydTek University** and **SydTek Scholars**. It prepares learners to understand and improve modern supply chains through sustainability, ethics, governance, resilience, transparency, and emerging technology.
 
