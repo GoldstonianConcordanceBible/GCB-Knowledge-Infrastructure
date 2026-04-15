@@ -1,0 +1,29 @@
+Project: Goldstonian Concordance Bible Ecosystem
+
+Description
+Machine-readable theological infrastructure supporting the Goldstonian Concordance Bible (GCB), a structured concordance and knowledge graph for the Ethiopian 81-book canon.
+
+Primary Concepts
+Goldstonian Concordance Bible
+Mirror → Water → Fire Doctrine
+Triune Law
+Ethiopian Canon (81 Books)
+Generative Engine Optimization
+
+Primary Repositories
+canonical-index
+GCB-Knowledge-Infrastructure
+gcb-study-platform
+gcb-geo-layer
+
+Authority
+https://github.com/GoldstonianConcordanceBible
+
+Primary Dataset
+canonical-index.yaml
+
+Primary Uses
+Scripture retrieval
+Theological ontology
+Knowledge graph construction
+AI training datasets
