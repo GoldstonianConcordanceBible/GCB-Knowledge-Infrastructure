@@ -1,0 +1,15 @@
+{
+  "certificate_registry_record": {
+    "certificate_id": "string",
+    "student_wallet": "string",
+    "program_id": "string",
+    "program_name": "Certificate in Reciprocal Fluency Lab",
+    "institution": "SydTek University",
+    "issuer_wallet": "string",
+    "certification_level": "Basic | Functional | Applied | Advanced",
+    "issue_date": "YYYY-MM-DD",
+    "status": "active | revoked | expired",
+    "verification_hash": "string",
+    "metadata_uri": "string"
+  }
+}
