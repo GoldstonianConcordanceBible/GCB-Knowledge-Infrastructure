@@ -1,0 +1,24 @@
+# SydTek Fluency Lab
+
+This folder contains the Certificate in Reciprocal Fluency Lab, a SydTek University certificate program.
+
+Core doctrine: Fluency, not exposure.
+
+Core method: Mirror → Water → Fire.
+
+The program pairs native English speakers with native Spanish speakers for structured conversation, correction, credit, assessment, and certification.
+
+Primary credential: Certificate in Applied Bilingual Fluency Exchange.
+
+Important files:
+- README.md
+- program-overview.md
+- learning-outcomes.md
+- assessment-rubric.md
+- partner-matching.md
+- credit-hours.md
+- final-certification.md
+- instructor-guide.md
+- student-handbook.md
+- accreditation-notes.md
+- ontology.json
