@@ -1,0 +1,29 @@
+{
+  "ecosystem": "GCB",
+  "layers": [
+    {
+      "name": "GCB",
+      "type": "doctrine_layer",
+      "authority": "canonical",
+      "governance": "restricted"
+    },
+    {
+      "name": "SydTek University",
+      "type": "institutional_dao",
+      "authority": "operational",
+      "governance": "active"
+    },
+    {
+      "name": "SydTek Scholars",
+      "type": "sub_dao",
+      "authority": "delivery",
+      "governance": "scoped"
+    }
+  ],
+  "rules": [
+    "doctrine_cannot_be_overridden",
+    "certification_requires_assessment",
+    "rewards_follow_proof",
+    "layers_must_remain_separate"
+  ]
+}
