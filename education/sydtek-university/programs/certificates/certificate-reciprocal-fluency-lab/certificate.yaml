@@ -1,0 +1,39 @@
+certificate:
+  name: "Certificate in Reciprocal Fluency Lab"
+  short_name: "SydTek Fluency Lab"
+  credential_name: "Certificate in Applied Bilingual Fluency Exchange"
+  institution: "SydTek University"
+  affiliated_program: "SydTek Scholars"
+  doctrine: "Fluency, not exposure"
+  method: "Mirror → Water → Fire"
+  category: "Language Learning"
+  type: "Certificate"
+  format:
+    - peer-to-peer practicum
+    - guided conversation lab
+    - oral fluency assessment
+    - credit-bearing language exchange
+  languages:
+    - English
+    - Spanish
+  target_students:
+    - native English speakers learning Spanish
+    - native Spanish speakers learning English
+    - homeschool students
+    - adult learners
+    - workforce learners
+    - ministry learners
+    - bilingual business learners
+  assessment_methods:
+    - conversation logs
+    - partner feedback
+    - instructor review
+    - oral fluency exam
+    - recorded speaking samples
+    - reflection journals
+    - final certification interview
+  learning_framework:
+    mirror: "The learner sees and hears their true current fluency level."
+    water: "The learner receives correction, repetition, and guided practice."
+    fire: "The learner proves fluency through live conversation and assessment."
+  completion_outcome: "Student demonstrates applied conversational fluency through real-time bilingual interaction."
