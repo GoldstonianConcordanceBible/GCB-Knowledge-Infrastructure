@@ -1,0 +1,21 @@
+{
+  "program_template": {
+    "program_name": "string",
+    "credential_level": "certificate | undergraduate | graduate | doctoral",
+    "credential_awarded": "string",
+    "institution": "SydTek University",
+    "connected_division": "SydTek Scholars | SydTek University | GCB Research Layer",
+    "doctrine": "Fluency, not exposure",
+    "method": "Mirror → Water → Fire",
+    "learning_outcomes": [],
+    "evidence_of_mastery": [],
+    "assessment_methods": [],
+    "completion_requirements": {
+      "credit_hours": "number",
+      "portfolio_required": "boolean",
+      "final_assessment_required": "boolean",
+      "defense_required": "boolean"
+    },
+    "credential_standard": "Proof-based mastery"
+  }
+}
