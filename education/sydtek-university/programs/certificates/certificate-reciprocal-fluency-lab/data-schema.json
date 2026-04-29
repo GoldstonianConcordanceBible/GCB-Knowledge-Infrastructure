@@ -1,0 +1,38 @@
+{
+  "User": {
+    "id": "string",
+    "name": "string",
+    "native_language": "string",
+    "target_language": "string",
+    "role": "learner | mentor | instructor",
+    "reputation_score": "number",
+    "certification_level": "string"
+  },
+  "Session": {
+    "id": "string",
+    "user_a": "string",
+    "user_b": "string",
+    "date": "date",
+    "duration": "number",
+    "topic": "string",
+    "verified": "boolean",
+    "recording_url": "string"
+  },
+  "Assessment": {
+    "id": "string",
+    "user_id": "string",
+    "speaking_score": "number",
+    "listening_score": "number",
+    "pronunciation_score": "number",
+    "response_speed_score": "number",
+    "correction_score": "number",
+    "status": "pending | passed | failed"
+  },
+  "Certificate": {
+    "id": "string",
+    "user_id": "string",
+    "level": "string",
+    "date_awarded": "date",
+    "verification_hash": "string"
+  }
+}
