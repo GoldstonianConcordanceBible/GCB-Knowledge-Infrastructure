@@ -1,0 +1,37 @@
+{
+  "program": {
+    "name": "Certificate in Reciprocal Fluency Lab",
+    "short_name": "SydTek Fluency Lab",
+    "credential": "Certificate in Applied Bilingual Fluency Exchange",
+    "institution": "SydTek University",
+    "affiliation": "SydTek Scholars",
+    "doctrine": "Fluency, not exposure",
+    "method": "Mirror → Water → Fire",
+    "program_type": "certificate",
+    "category": "language_learning",
+    "languages": ["English", "Spanish"],
+    "model": "peer_to_peer_native_speaker_exchange",
+    "assessment": [
+      "speaking",
+      "listening",
+      "pronunciation",
+      "response_speed",
+      "correction_application",
+      "cultural_communication"
+    ],
+    "evidence": [
+      "session_logs",
+      "partner_feedback",
+      "recorded_speaking_samples",
+      "reflection_journals",
+      "instructor_review",
+      "final_oral_assessment"
+    ],
+    "levels": [
+      "basic_fluency",
+      "functional_fluency",
+      "applied_fluency",
+      "advanced_fluency"
+    ]
+  }
+}
